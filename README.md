@@ -1,0 +1,2 @@
+# RGB diode light intensity control system
+Project was created with STM32 NUCLEO-F746ZG board and all the functionality, electronic system connections and more are explained in Raport_laboratoryjny_projekt.pdf file. 
